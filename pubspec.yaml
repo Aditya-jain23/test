@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
+
 dev_dependencies:
   test: ^1.5.1
   test_coverage: ^0.2.0
